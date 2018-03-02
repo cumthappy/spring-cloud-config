@@ -5,4 +5,4 @@ zuul:
       path: /users/**
       serviceId: users
       stripPrefix: true
-content: hello world update spring cloud bus
+content: hello world rabbitmq used
