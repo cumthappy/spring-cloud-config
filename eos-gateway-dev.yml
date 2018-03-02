@@ -5,4 +5,4 @@ zuul:
       path: /users/**
       serviceId: users
       stripPrefix: true
-content: spring cloud config + spring cloud bus + rabbitmq + git webhook
+content: spring cloud config success
