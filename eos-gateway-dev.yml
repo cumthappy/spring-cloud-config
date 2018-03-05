@@ -1,8 +1,8 @@
 zuul:
-  prefix: /b
+  prefix: /bookservice
   routes:
     bookservice: 
-      path: /b/bookservice/book/**
+      path: /bookservice/book/**
       serviceId: bookservice
-      stripPrefix: true
+      stripPrefix: false
 content: spring cloud config success
