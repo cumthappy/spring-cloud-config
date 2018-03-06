@@ -3,5 +3,5 @@ zuul:
     bookservice: 
       path: /bookservice/book/**
       serviceId: bookservice
-      stripPrefix: false
+      stripPrefix: true
 content: spring cloud config success
